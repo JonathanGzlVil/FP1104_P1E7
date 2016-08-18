@@ -20,3 +20,28 @@ Conclusión
 Lady Ada Lovelace fue otro de los grandes genios que por una causa u otra han muerto de forma prematura privando al mundo de sus capacidades y sabiduría. Ada ha sido recordada a lo largo de la historia y se ha intentado galardonar de alguna manera su legado.
 Por ejemplo el ejército de los Estados Unidos llamaron a uno de sus lenguajes de programación Ada en su honor. En 2010 Bruce Beresford comenzó a dirigir la película titulada “Enchantress of Numbers“ que tratará sobre la vida de Lady Ada Lovelace que será encarnada por la actriz Zooey Deschanel.
 
+4.2 Visualizaciones de Divide y Vencerás
+En este apartado presentamos las características de las visualizaciones encontradas
+para el algoritmo de ordenación por mezcla (mergesort), por su amplio uso, y después
+resumimos los resultados encontrados para otros algoritmos.
+La tabla 1 muestra los resultados de analizar las visualizaciones encontradas en 10
+libros para la ordenación por mezcla.
+Tabla 1. Tabla de visualizaciones de la ordenación por mezcla
+Texto Visualización
+[18] Secuencia de visualizaciones: vector dado desordenado, subvectores
+desordenados, subvectores ordenados y vector ordenado
+[19] Secuencia de visualizaciones: cambios de estado en el vector por la
+mezcla, desde el dado hasta el ordenado
+[20] Secuencia de visualizaciones: cambios de estado por la mezcla
+[21] Dos árboles “paralelos” con índices de llamadas: recursivas y a
+mezclar
+[23] Secuencia de visualizaciones: vector dado desordenado, vector con
+dos lados ordenados y vector ordenado
+[24] Árbol de recursión con contenidos ya ordenados
+[25] Dos árboles “paralelos”: con subvectores desordenados y ordenados
+[26] Árbol de recursión con índices para ordenar subvectores y su mezcla
+[27] Árbol de recursión con índices
+[28] Secuencia de visualizaciones: vectores desordenados y su mezcla
+hasta vectores ordenados (árbol de recursión implícito) 
+
+
