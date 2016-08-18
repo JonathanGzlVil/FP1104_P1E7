@@ -51,4 +51,6 @@ Se denomina algoritmo a un grupo finito de operaciones organizadas de manera ló
 Según los expertos en matemática, los algoritmos permiten trabajar a partir de un estado básico o inicial y, tras seguir los pasos propuestos, llegar a una solución. Cabe resaltar que, si bien los algoritmos suelen estar asociados al ámbito matemático (ya que permiten, por citar casos concretos, averiguar el cociente entre un par de dígitos o determinar cuál es el máximo común divisor entre dos cifras pertenecientes al grupo de los enteros), aunque no siempre implican la presencia de números.
 Además de todo lo expuesto, en el ámbito matemático, y cuando estamos decididos a llevar a cabo la descripción de uno de esos algoritmos hay que tener en cuenta que se puede efectuar mediante tres niveles. Así, en primer lugar, nos encontramos con el de alto nivel, lo que es la descripción formal y finalmente la tarea de implementación.
 
-
+FLOR: 100-3/(sqrt(x^2+y^2))+sin(sqrt(x^2+y^2))+sqrt(200-
+(x^2+y^2)+10*sin(x)+10sin(y))/1000, x is from -15 to 15, y is from -15 to 15, z is from
+90 to 101
